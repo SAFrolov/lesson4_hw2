@@ -10,13 +10,6 @@ package dz1humencatrobot;
  *
  * @author safrolov
  */
-public class Dz1HumenCatRobot {
-
-    /**
-     * @param args the command line arguments
-     */
-    public static void main(String[] args) {
-
-    }
-    
+public interface CanJump {
+    public int jump();
 }

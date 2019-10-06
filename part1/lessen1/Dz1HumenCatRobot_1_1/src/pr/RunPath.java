@@ -4,11 +4,11 @@
  * and open the template in the editor.
  */
 
-package pri;
+package pr;
 
 import dz1humencatrobot.sth.Sthing;
 import dz1humencatrobot.CanRun;
-import pri.Pripatstvie;
+import pr.Pripatstvie;
 
 /**
  *

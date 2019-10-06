@@ -6,7 +6,6 @@
 
 package dz1humencatrobot.sth;
 
-import dz1humencatrobot.sth.Sthing;
 import dz1humencatrobot.CanJump;
 import dz1humencatrobot.CanJump;
 import dz1humencatrobot.CanRun;

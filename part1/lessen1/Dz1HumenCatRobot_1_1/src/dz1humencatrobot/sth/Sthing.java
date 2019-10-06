@@ -4,7 +4,7 @@
  * and open the template in the editor.
  */
 
-package dz1humencatrobot;
+package dz1humencatrobot.sth;
 
 /**
  *

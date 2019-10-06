@@ -4,32 +4,34 @@
  * and open the template in the editor.
  */
 
-package dz1humencatrobot;
+package dz1humencatrobot.sth;
 
 import dz1humencatrobot.CanJump;
+import dz1humencatrobot.CanJump;
+import dz1humencatrobot.CanRun;
 import dz1humencatrobot.CanRun;
 
 /**
  *
  * @author safrolov
  */
-public class Robot implements CanJump, CanRun, Sthing{
+public class Cat implements CanJump, CanRun, Sthing{
     @Override
     public int jump(){
-        int high=10;
-        System.out.println("Robot can jump on " + high + " meter");
+        int high=5;
+        System.out.println("cat can jump on " + high + " meter");
         return high;
     }
     
     @Override
     public int run(){
-        int dis=10000;
-        System.out.println("Robot can run  " + dis + " meter");
+        int dis=100;
+        System.out.println("Cat can run  " + dis + " meter");
         return dis;       
-    } 
-    
+    }    
+
     @Override
     public String getInfo() {
-        return "Robot";
+        return "Cat";
     }
 }

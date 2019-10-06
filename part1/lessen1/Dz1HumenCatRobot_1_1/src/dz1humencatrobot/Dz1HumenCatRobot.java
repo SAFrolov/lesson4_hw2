@@ -6,6 +6,14 @@
 
 package dz1humencatrobot;
 
+import pri.Wall;
+import pri.RunPath;
+import pri.Pripatstvie;
+import dz1humencatrobot.sth.Robot;
+import dz1humencatrobot.sth.Humen;
+import dz1humencatrobot.sth.Sthing;
+import dz1humencatrobot.sth.Cat;
+
 /**
  *
  * @author safrolov

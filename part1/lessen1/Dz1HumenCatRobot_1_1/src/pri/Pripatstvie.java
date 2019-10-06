@@ -4,7 +4,9 @@
  * and open the template in the editor.
  */
 
-package dz1humencatrobot;
+package pri;
+
+import dz1humencatrobot.sth.Sthing;
 
 /**
  *
